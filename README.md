@@ -55,3 +55,15 @@ terraform apply
 ```bash
 terraform destroy
 ```
+
+# Links úteis
+
+- [O que é terraform](https://developer.hashicorp.com/terraform/intro)
+- [O que é um resource](https://developer.hashicorp.com/terraform/language/resources)
+- [O que é um data source](https://developer.hashicorp.com/terraform/language/data-sources)
+- [Variáveis](https://developer.hashicorp.com/terraform/language/values/variables)
+- [Output](https://developer.hashicorp.com/terraform/language/values/outputs)
+- [Funções](https://developer.hashicorp.com/terraform/language/functions)
+- [Como desenvoler um módulo](https://developer.hashicorp.com/terraform/language/modules/develop)
+- [Statefile](https://developer.hashicorp.com/terraform/language/state)
+- [Backend](https://developer.hashicorp.com/terraform/language/settings/backends/configuration)
